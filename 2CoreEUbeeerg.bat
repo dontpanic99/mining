@@ -1,0 +1,1 @@
+./primeminer -poolip=176.34.128.129 -poolport=1337 -pooluser=AYeGRd9DmKBfP3WjUNXMMMypeZDzBDhSA5 -poolpassword=PASSWORD -genproclimit=2
